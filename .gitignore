@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitkeep
+!data/
+!data/processed
+!Notebooks/
+!*.ipynb
