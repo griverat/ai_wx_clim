@@ -44,7 +44,7 @@ You can run the notebooks in this repository either locally by setting up a Cond
 
 ### Run Locally
 
-To run the notebooks locally, you need to have [Conda](https://docs.conda.io/en/latest/) (or [Mamba](https://github.com/conda-forge/miniforge?tab=readme-ov-file#unix-like-platforms-macos-linux--wsl)) installed.
+To run the notebooks locally, you need to have [Conda](https://docs.conda.io/en/latest/) (or [Mamba](https://conda-forge.org/download/)) installed.
 
 1.  **Clone the repository:**
     ```bash
@@ -83,9 +83,12 @@ If you prefer using Docker, ensure you have [Docker](https://www.docker.com/) an
     ```
 
 3.  **Access Jupyter Lab:**
-    Open your browser and navigate to [http://localhost:8888](http://localhost:8888).
+    Check the terminal logs for the URL with the token, for example:
+    `http://127.0.0.1:8888/lab?token=<generated_token>`
     
-    *Note: The default token is set to `hidsi`. If prompted, enter `hidsi` as the password/token.*
+    Copy and paste that URL into your browser.
+
+    *If you modify the Dockerfile or env.yml, you must rebuild the image using `docker-compose up --build`.*
 
 
 ---

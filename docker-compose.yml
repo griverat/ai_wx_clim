@@ -2,8 +2,7 @@ services:
   workshop:
     build: .
     ports:
-      - "8888:8888"
+      - "8890:8890"
     volumes:
       - .:/app
-    environment:
-      - JUPYTER_TOKEN=hidsi # Set a default token for convenience
+    environment: []
