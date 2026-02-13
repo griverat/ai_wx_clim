@@ -1,6 +1,6 @@
-# AI weather and climate Workshop
+# AI for weather and climate Workshop
 
-This repository contains the materials and notebooks for the **AI in weather and climate Workshop**. 
+This repository contains the materials and notebooks for the **AI for weather and climate Workshop**, part of the **HIDSI workshop series**. 
 
 The goal of this workshop is to provide hands-on experience with applying Artificial Intelligence (AI) and Machine Learning (ML) techniques to meteorological and climatological datasets. We cover some applications, from time series forecasting with local weather station data to global climate pattern prediction (ENSO) using deep learning.
 
@@ -28,3 +28,9 @@ The workshop is structured into three main parts:
 **ENSO Prediction**
 
 ### Part 3: Weather emulators
+
+
+---
+## Funding
+
+This material is based upon work supported by the National Science Foundation Award No. 2149133, RII Track-1: Change Hawaii: Harnessing the Data Revolution for Island Resilience.
