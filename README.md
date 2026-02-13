@@ -11,6 +11,12 @@ The workshop is structured into three main parts:
 
 ## Notebooks
 
+**IMPORTANT**
+
+If running on google colab, make sure to select the GPU runtime.
+
+![colab](Notebooks/imgs/gcolab.png)
+
 ### Part 1: AI methods with Weather Station data
 
 <a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part1_Data_Exploration.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
