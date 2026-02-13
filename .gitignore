@@ -4,5 +4,8 @@
 !data/
 !data/processed
 !Notebooks/
+!Notebooks/imgs
+!Notebooks/imgs/*
 !*.ipynb
 !env.yml
+!README.md
