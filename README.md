@@ -7,7 +7,7 @@ The goal of this workshop is to provide hands-on experience with applying Artifi
 The workshop is structured into three main parts:
 1.  **AI methods with Weather Station data**: Basics of data handling, visualization, and forecasting using regression and neural networks.
 2.  **AI for ENSO prediction**: Advanced deep learning architectures (CNNs) for spatiotemporal climate data.
-3.  **Weather Emulators**: State-of-the-art techniques for emulating weather systems.
+3.  **Weather Foundational Model**: State-of-the-art techniques for emulating weather systems.
 
 ## Notebooks
 
@@ -27,8 +27,10 @@ The workshop is structured into three main parts:
 <a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part2_ENSO_Prediction.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 **ENSO Prediction**
 
-### Part 3: Weather emulators
+### Part 3: Weather Foundational Model
 
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part3_Weather_Emulators.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+**Weather Emulators with Prithvi WxC**
 
 ---
 ## Funding
