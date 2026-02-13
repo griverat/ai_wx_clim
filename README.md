@@ -13,18 +13,18 @@ The workshop is structured into three main parts:
 
 ### Part 1: AI methods with Weather Station data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part1_Data_Exploration.ipynb)
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part1_Data_Exploration.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 **Data Exploration**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part1_Weather_Forecasting.ipynb)
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part1_Weather_Forecasting.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 **Weather Forecasting**
 
 ### Part 2: AI for ENSO prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part2_Data_Exploration.ipynb)
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part2_Data_Exploration.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 **Data Exploration**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part2_ENSO_Prediction.ipynb)
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part2_ENSO_Prediction.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 **ENSO Prediction**
 
 ### Part 3: Weather emulators
