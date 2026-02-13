@@ -9,3 +9,5 @@
 !*.ipynb
 !env.yml
 !README.md
+!Dockerfile
+!docker-compose.yml

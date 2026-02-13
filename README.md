@@ -35,8 +35,58 @@ If running on google colab, make sure to select the GPU runtime.
 
 ### Part 3: Weather Foundational Model
 
-<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part3_Weather_Emulators.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-**Weather Emulators with Prithvi WxC**
+<a href="https://colab.research.google.com/github/griverat/ai_wx_clim/blob/main/Notebooks/Part3_WFM.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+**Weather Foundational Model with Prithvi WxC**
+
+## Installation and Usage
+
+You can run the notebooks in this repository either locally by setting up a Conda environment or by using Docker.
+
+### Run Locally
+
+To run the notebooks locally, you need to have [Conda](https://docs.conda.io/en/latest/) (or [Mamba](https://github.com/conda-forge/miniforge?tab=readme-ov-file#unix-like-platforms-macos-linux--wsl)) installed.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/griverat/ai_wx_clim.git
+    cd ai_wx_clim
+    ```
+
+2.  **Create the Conda environment:**
+    ```bash
+    conda env create -f env.yml
+    ```
+
+3.  **Activate the environment:**
+    ```bash
+    conda activate hidsi_wxclim
+    ```
+
+4.  **Launch Jupyter Lab:**
+    ```bash
+    jupyter lab
+    ```
+
+### Run with Docker
+
+If you prefer using Docker, ensure you have [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/griverat/ai_wx_clim.git
+    cd ai_wx_clim
+    ```
+
+2.  **Run with Docker Compose:**
+    ```bash
+    docker compose up
+    ```
+
+3.  **Access Jupyter Lab:**
+    Open your browser and navigate to [http://localhost:8888](http://localhost:8888).
+    
+    *Note: The default token is set to `hidsi`. If prompted, enter `hidsi` as the password/token.*
+
 
 ---
 ## Funding
